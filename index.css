@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  background-color: rgb(76, 187, 76);
+}
+
+h1 {
+  font-size: 62px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: goldenrod;
+  -webkit-text-stroke: 2px rgb(82, 81, 37);
+}
+
+#start-btn, #card-btn{
+  color: white;
+  background-color: maroon;
+  height: 40px;
+  width: 25%;
+  
+  
+}
